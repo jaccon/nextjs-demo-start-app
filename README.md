@@ -25,3 +25,4 @@ Instalar o editor config no VSCode e depois copiar o arquivo .editorconfig deste
 Adicionar um arquivo babel.config.js na raiz do projeto e adicionar o conteúdo do arquivo de exemplo.
 
 
+Referência: https://www.youtube.com/watch?v=1nVUfZg2dSA
