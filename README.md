@@ -1,3 +1,5 @@
+# Configurando um novo projeto NextJS com Eslint
+
 1. Criando o App
 yarn create next-app reactsetup
 
